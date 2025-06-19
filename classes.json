@@ -1,0 +1,10 @@
+{
+  "classes": [
+    {"title": "Road", "color": "#3C1098"},
+    {"title": "Water", "color": "#6EC1E4"},
+    {"title": "Buildings", "color": "#8429F6"},
+    {"title": "Unlabeled", "color": "#9B9B9B"},
+    {"title": "Vegetation", "color": "#E2A929"},
+    {"title": "Bareland", "color": "#FEDD3A"}
+  ]
+}
